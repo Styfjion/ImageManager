@@ -60,7 +60,7 @@
       - `cd /picture_evaluation`   
         将图片放入 `/picture`文件夹  
       - `python clarity_assessment.py`  
-<br />
+ <br />
 - **2. 去除（检测）场景图的白边：** 
    - 通过设定图像边缘像素和的阈值寻找白边起始位置
    - 执行方法： 
